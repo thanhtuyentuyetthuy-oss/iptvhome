@@ -16,9 +16,6 @@
 
 #-*-🌟-VTV*-🌟-*--#
 
-	#EXTINF:-1 tvg-id="vtv1-hd" group-title="🌟| VTV" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/vtv1-hd/KenhCoBan.png",VTV1 🌟FPT
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64;Linux; Android 9; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.7559.90 Safari/537.36 Edge/144.0.3719.92	
-https://toiyeuvietnam.dpdns.org/TuyetDoiKhongKinhDoanh/vtv1-hd/KenhCoBan.m3u8
 	#EXTINF:0 tvg-id="vtv1hd" group-title="🌟| VTV" catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/vtv1hd_1000.stream/chunks_dvr_range-${start}-10800.m3u8" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/VTV1_logo_2013_final.svg/1200px-VTV1_logo_2013_final.svg.png",VTV1 🌟FPT
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64;Linux; Android 9; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.7559.90 Safari/537.36 Edge/144.0.3719.92	
 #EXTVLCOPT:http-user-agent=dovietsy
