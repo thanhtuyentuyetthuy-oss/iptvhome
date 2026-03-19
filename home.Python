@@ -1,0 +1,49 @@
+import requests
+import re
+
+# --- CẤU HÌNH DỮ LIỆU ---
+SOURCE_URL = "https://raw.githubusercontent.com/t23-02/bongda/refs/heads/main/bongda.m3u"  # Thay bằng link M3U nguồn
+OUTPUT_FILE = "bongda.m3u"
+def sync_iptv():
+    print("--- Bắt đầu đồng bộ dữ liệu IPTV ---")
+   
+    try:
+        # 1. Gửi yêu cầu (Request)
+        response = requests.get(SOURCE_URL, timeout=10)
+        if response.status_code != 200:
+            print(f"Lỗi: Không thể tải dữ liệu (Status: {response.status_code})")
+            return
+        
+        content = response.text
+        
+        # 2. Tách chuỗi (Parsing) dùng Regex
+        # Regex này tìm cặp: #EXTINF và Link ngay bên dưới nó
+        pattern = re.compile(r'(#EXTINF:.*?\n)(http.*)', re.MULTILINE)
+        matches = pattern.findall(content)
+        
+        new_m3u_content = "#EXTM3U\n"
+        count = 0
+
+        for info, url in matches:
+            # 3. Xử lý (Processing)
+            # Kiểm tra xem tên kênh có nằm trong danh sách ưu tiên không
+            if any(key.lower() in info.lower() for key in KEYWORDS_TO_KEEP):
+                
+                # Thay đổi group-title bằng Regex
+                info = re.sub(r'group-title=".*?"', f'group-title="{NEW_GROUP_NAME}"', info)
+                
+                # Thêm vào danh sách mới
+                new_m3u_content += info + url + "\n"
+                count += 1
+
+        # 4. Lưu file (Export)
+        with open(OUTPUT_FILE, "w", encoding="utf-8") as f:
+            f.write(new_m3u_content)
+            
+        print(f"--- Hoàn tất! Đã lưu {count} kênh vào file {OUTPUT_FILE} ---")
+
+    except Exception as e:
+        print(f"Đã xảy ra lỗi hệ thống: {e}")
+
+if __name__ == "__main__":
+    sync_iptv()
