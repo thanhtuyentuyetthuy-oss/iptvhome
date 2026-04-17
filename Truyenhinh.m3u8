@@ -1,38 +1,38 @@
 #EXTM3U url-tvg="https://raw.githubusercontent.com/davidmuma/EPG_dobleM/refs/heads/master/guiatv.xml,https://epgshare01.online/epgshare01/epg_ripper_NL1.xml"
 #EXTM3U url-tvg="https://raw.githubusercontent.com/davidmuma/EPG_dobleM/refs/heads/master/guiatv.xml,https://epgshare01.online/epgshare01/epg_ripper_NL1.xml.gz"
-#EXTM3U url-tvg="https://raw.githubusercontent.com/davidmuma/EPG_dobleM/refs/heads/master/guiatv.xml,https://epgshare01.online/epgshare01/epg_ripper_NL1.xml,https://raw.githubusercontent.com/davidmuma/EPG_dobleM/master/guiatv.xml" refresh="3600" tvg-shift=0 cache=2048 deinterlace=1 aspect-ratio=16:9 m3uautoload=32
+#EXTM3U url-tvg="https://raw.githubusercontent.com/davidmuma/EPG_dobleM/refs/heads/master/guiatv.xml,https://epgshare01.online/epgshare01/epg_ripper_NL1.xml,https://raw.githubusercontent.com/davidmuma/EPG_dobleM/master/guiatv.xml" refresh="3600" tvg-shift=0 cache=1024 deinterlace=1 aspect-ratio=16:9 m3uautoload=32
 #EXTVLCOPT:network-caching=1000
-#EXTM3U url-tvg="https://raw.githubusercontent.com/davidmuma/EPG_dobleM/refs/heads/master/guiatv.xml,https://epgshare01.online/epgshare01/epg_ripper_NL1.xml.gz,https://raw.githubusercontent.com/davidmuma/EPG_dobleM/master/guiatv.xml" refresh="3600" tvg-shift=0 cache=2048 deinterlace=1 aspect-ratio=16:9 m3uautoload=32
+#EXTM3U url-tvg="https://raw.githubusercontent.com/davidmuma/EPG_dobleM/refs/heads/master/guiatv.xml,https://epgshare01.online/epgshare01/epg_ripper_NL1.xml.gz,https://raw.githubusercontent.com/davidmuma/EPG_dobleM/master/guiatv.xml" refresh="3600" tvg-shift=0 cache=1024 deinterlace=1 aspect-ratio=16:9 m3uautoload=32
 #EXTVLCOPT:network-caching=1000
 #EXTM3U url-tvg="https://tvbvn.quanlehong539.workers.dev/xml"
 #EXTM3U url-tvg="https://tvbvn.quanlehong539.workers.dev/xml.gz"
-#EXTM3U url-tvg="https://tvbvn.quanlehong539.workers.dev/xml" refresh="3600" tvg-shift=0 cache=2048 deinterlace=1 aspect-ratio=16:9 m3uautoload=32
-#EXTM3U url-tvg="https://tvbvn.quanlehong539.workers.dev/xml.gz" refresh="3600" tvg-shift=0 cache=2048 deinterlace=1 aspect-ratio=16:9 m3uautoload=32
+#EXTM3U url-tvg="https://tvbvn.quanlehong539.workers.dev/xml" refresh="3600" tvg-shift=0 cache=1024 deinterlace=1 aspect-ratio=16:9 m3uautoload=32
+#EXTM3U url-tvg="https://tvbvn.quanlehong539.workers.dev/xml.gz" refresh="3600" tvg-shift=0 cache=1024 deinterlace=1 aspect-ratio=16:9 m3uautoload=32
 #EXTVLCOPT:network-caching=1000
 #EXTM3U url-tvg="http://lichphatsong.site/schedule/epg.xml"
 #EXTM3U url-tvg="http://lichphatsong.site/schedule/epg.xml.gz"
-#EXTM3U url-tvg="http://lichphatsong.site/schedule/epg.xml" refresh="3600" tvg-shift=0 cache=2048 deinterlace=1 aspect-ratio=16:9 m3uautoload=32
-#EXTM3U url-tvg="http://lichphatsong.site/schedule/epg.xml.gz" refresh="3600" tvg-shift=0 cache=2048 deinterlace=1 aspect-ratio=16:9 m3uautoload=32
+#EXTM3U url-tvg="http://lichphatsong.site/schedule/epg.xml" refresh="3600" tvg-shift=0 cache=1024 deinterlace=1 aspect-ratio=16:9 m3uautoload=32
+#EXTM3U url-tvg="http://lichphatsong.site/schedule/epg.xml.gz" refresh="3600" tvg-shift=0 cache=1024 deinterlace=1 aspect-ratio=16:9 m3uautoload=32
 #EXTVLCOPT:network-caching=1000
 #EXTM3U url-tvg="https://epg.946985.xyz/t.xml"
 #EXTM3U url-tvg="https://epg.946985.xyz/t.xml.gz" 
-#EXTM3U url-tvg="https://epg.946985.xyz/t.xml" refresh="3600" tvg-shift=0 cache=2048 deinterlace=1 aspect-ratio=16:9 m3uautoload=32
-#EXTM3U url-tvg="https://epg.946985.xyz/t.xml.gz" refresh="3600" tvg-shift=0 cache=2048 deinterlace=1 aspect-ratio=16:9 m3uautoload=32
+#EXTM3U url-tvg="https://epg.946985.xyz/t.xml" refresh="3600" tvg-shift=0 cache=1024 deinterlace=1 aspect-ratio=16:9 m3uautoload=32
+#EXTM3U url-tvg="https://epg.946985.xyz/t.xml.gz" refresh="3600" tvg-shift=0 cache=1024 deinterlace=1 aspect-ratio=16:9 m3uautoload=32
 #EXTVLCOPT:network-caching=1000
 #EXTM3U url-tvg="https://xem.dramahay.xyz/epg.xml"
 #EXTM3U url-tvg="https://xem.dramahay.xyz/epg.xml.gz"
-#EXTM3U url-tvg="https://xem.dramahay.xyz/epg.xml" refresh="3600" tvg-shift=0 cache=2048 deinterlace=1 aspect-ratio=16:9 m3uautoload=32
-#EXTM3U url-tvg="https://xem.dramahay.xyz/epg.xml.gz" refresh="3600" tvg-shift=0 cache=2048 deinterlace=1 aspect-ratio=16:9 m3uautoload=32
+#EXTM3U url-tvg="https://xem.dramahay.xyz/epg.xml" refresh="3600" tvg-shift=0 cache=1024 deinterlace=1 aspect-ratio=16:9 m3uautoload=32
+#EXTM3U url-tvg="https://xem.dramahay.xyz/epg.xml.gz" refresh="3600" tvg-shift=0 cache=1024 deinterlace=1 aspect-ratio=16:9 m3uautoload=32
 #EXTVLCOPT:network-caching=1000
 #EXTM3U url-tvg="https://vnepg.site/epg.xml"
 #EXTM3U url-tvg="https://vnepg.site/epg.xml.gz"
-#EXTM3U url-tvg="https://vnepg.site/epg.xml" refresh="3600" tvg-shift=0 cache=2048 deinterlace=1 aspect-ratio=16:9 m3uautoload=32
-#EXTM3U url-tvg="https://vnepg.site/epg.xml.gz" refresh="3600" tvg-shift=0 cache=2048 deinterlace=1 aspect-ratio=16:9 m3uautoload=32
+#EXTM3U url-tvg="https://vnepg.site/epg.xml" refresh="3600" tvg-shift=0 cache=1024 deinterlace=1 aspect-ratio=16:9 m3uautoload=32
+#EXTM3U url-tvg="https://vnepg.site/epg.xml.gz" refresh="3600" tvg-shift=0 cache=1024 deinterlace=1 aspect-ratio=16:9 m3uautoload=32
 #EXTVLCOPT:network-caching=1000
 #EXTM3U url-tvg="https://hnlive.dramahay.xyz/epg.xml"
 #EXTM3U url-tvg="https://hnlive.dramahay.xyz/epg.xml.gz"
-#EXTM3U url-tvg="https://hnlive.dramahay.xyz/epg.xml" refresh="3600" tvg-shift=0 cache=2048 deinterlace=1 aspect-ratio=16:9 m3uautoload=32
-#EXTM3U url-tvg="https://hnlive.dramahay.xyz/epg.xml.gz" refresh="3600" tvg-shift=0 cache=2048 deinterlace=1 aspect-ratio=16:9 m3uautoload=32
+#EXTM3U url-tvg="https://hnlive.dramahay.xyz/epg.xml" refresh="3600" tvg-shift=0 cache=1024 deinterlace=1 aspect-ratio=16:9 m3uautoload=32
+#EXTM3U url-tvg="https://hnlive.dramahay.xyz/epg.xml.gz" refresh="3600" tvg-shift=0 cache=1024 deinterlace=1 aspect-ratio=16:9 m3uautoload=32
 
 #-----------------------Truyền Hình-----------------------------#
 #EXTINF:-1 tvg-id="vtv1hd" group-title="VTV" tvg-logo="https://i.ytimg.com/vi/dGohEWXz7Sk/maxresdefault.jpg" catchup="default" catchup-days="2" catchup-source="http://sv.cvtv.xyz:3000/mytvod.m3u8?id=210&time=${start}&offset=${duration}, VTV1
