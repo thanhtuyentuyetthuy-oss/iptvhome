@@ -1,31 +1,17 @@
 #EXTM3U url-tvg="https://raw.githubusercontent.com/davidmuma/EPG_dobleM/refs/heads/master/guiatv.xml,https://epgshare01.online/epgshare01/epg_ripper_NL1.xml" refresh="3600"
 #EXTM3U url-tvg="https://raw.githubusercontent.com/davidmuma/EPG_dobleM/refs/heads/master/guiatv.xml,https://epgshare01.online/epgshare01/epg_ripper_NL1.xml.gz" refresh="3600"
-#EXTM3U url-tvg="https://raw.githubusercontent.com/davidmuma/EPG_dobleM/refs/heads/master/guiatv.xml,https://epgshare01.online/epgshare01/epg_ripper_NL1.xml" refresh="3600" tvg-shift=0 cache=4096 deinterlace=1 aspect-ratio=16:9 m3uautoload=32
-#EXTM3U url-tvg="https://raw.githubusercontent.com/davidmuma/EPG_dobleM/refs/heads/master/guiatv.xml,https://epgshare01.online/epgshare01/epg_ripper_NL1.xml.gz" refresh="3600" tvg-shift=0 cache=4096 deinterlace=1 aspect-ratio=16:9 m3uautoload=32
 #EXTM3U url-tvg="https://tvbvn.quanlehong539.workers.dev/xml" refresh="3600"
 #EXTM3U url-tvg="https://tvbvn.quanlehong539.workers.dev/xml.gz" refresh="3600"
-#EXTM3U url-tvg="https://tvbvn.quanlehong539.workers.dev/xml" refresh="3600" tvg-shift=0 cache=4096 deinterlace=1 aspect-ratio=16:9 m3uautoload=32
-#EXTM3U url-tvg="https://tvbvn.quanlehong539.workers.dev/xml.gz" refresh="3600" tvg-shift=0 cache=4096 deinterlace=1 aspect-ratio=16:9 m3uautoload=32
 #EXTM3U url-tvg="http://lichphatsong.site/schedule/epg.xml" refresh="3600"
-#EXTM3U url-tvg="http://lichphatsong.site/schedule/epg.xml.gz"refresh="3600"
-#EXTM3U url-tvg="http://lichphatsong.site/schedule/epg.xml" refresh="3600" tvg-shift=0 cache=4096 deinterlace=1 aspect-ratio=16:9 m3uautoload=32
-#EXTM3U url-tvg="http://lichphatsong.site/schedule/epg.xml.gz" refresh="3600" tvg-shift=0 cache=4096 deinterlace=1 aspect-ratio=16:9 m3uautoload=32
+#EXTM3U url-tvg="http://lichphatsong.site/schedule/epg.xml.gz" refresh="3600"
 #EXTM3U url-tvg="https://epg.946985.xyz/t.xml" refresh="3600"
 #EXTM3U url-tvg="https://epg.946985.xyz/t.xml.gz" refresh="3600"
-#EXTM3U url-tvg="https://epg.946985.xyz/t.xml" refresh="3600" tvg-shift=0 cache=4096 deinterlace=1 aspect-ratio=16:9 m3uautoload=32
-#EXTM3U url-tvg="https://epg.946985.xyz/t.xml.gz" refresh="3600" tvg-shift=0 cache=4096 deinterlace=1 aspect-ratio=16:9 m3uautoload=32
 #EXTM3U url-tvg="https://xem.dramahay.xyz/epg.xml" refresh="3600"
 #EXTM3U url-tvg="https://xem.dramahay.xyz/epg.xml.gz" refresh="3600"
-#EXTM3U url-tvg="https://xem.dramahay.xyz/epg.xml" refresh="3600" tvg-shift=0 cache=4096 deinterlace=1 aspect-ratio=16:9 m3uautoload=32
-#EXTM3U url-tvg="https://xem.dramahay.xyz/epg.xml.gz" refresh="3600" tvg-shift=0 cache=4096 deinterlace=1 aspect-ratio=16:9 m3uautoload=32
 #EXTM3U url-tvg="https://vnepg.site/epg.xml" refresh="3600"
 #EXTM3U url-tvg="https://vnepg.site/epg.xml.gz" refresh="3600"
-#EXTM3U url-tvg="https://vnepg.site/epg.xml" refresh="3600" tvg-shift=0 cache=4096 deinterlace=1 aspect-ratio=16:9 m3uautoload=32
-#EXTM3U url-tvg="https://vnepg.site/epg.xml.gz" refresh="3600" tvg-shift=0 cache=4096 deinterlace=1 aspect-ratio=16:9 m3uautoload=32
 #EXTM3U url-tvg="https://hnlive.dramahay.xyz/epg.xml" refresh="3600"
 #EXTM3U url-tvg="https://hnlive.dramahay.xyz/epg.xml.gz" refresh="3600"
-#EXTM3U url-tvg="https://hnlive.dramahay.xyz/epg.xml" refresh="3600" tvg-shift=0 cache=4096 deinterlace=1 aspect-ratio=16:9 m3uautoload=32
-#EXTM3U url-tvg="https://hnlive.dramahay.xyz/epg.xml.gz" refresh="3600" tvg-shift=0 cache=4096 deinterlace=1 aspect-ratio=16:9 m3uautoload=32
 
 #-----------------------Truyền Hình-----------------------------#
 #EXTINF:-1 tvg-id="vtv1hd" group-title="KÊNH VTV - ĐÀI TH VIỆT NAM" tvg-logo="https://raw.githubusercontent.com/blvbatman/iptv/refs/heads/main/vtv1.png" , VTV1 HD
