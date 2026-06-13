@@ -1,3 +1,5 @@
+#EXTM3U url-tvg="https://vnepg.site/epg.xml,https://github.com/iptv-pro/iptv-pro.github.io/raw/refs/heads/main/epg/epg.xml,https://raw.githubusercontent.com/AqFad2811/epg/main/epg.xml,https://epg.catvod.com/epg.xml,http://www.teleguide.info/download/new3/xmltv.xml,http://epg.one/epg2.xml,https://epg.pw/xmltv/epg_AU.xml,https://epg.pw/xmltv/epg_ID.xml,https://epg.pw/xmltv/epg_HK.xml,https://epg.pw/xmltv/epg_MY.xml,https://epg.pw/xmltv/epg_FR.xml" refresh="3600"
+#EXTM3U url-tvg="https://vnepg.site/epg.xml.gz,https://github.com/iptv-pro/iptv-pro.github.io/raw/refs/heads/main/epg/epg.xml.gz,https://raw.githubusercontent.com/AqFad2811/epg/main/epg.xml.gz,https://epg.catvod.com/epg.xml.gz,http://www.teleguide.info/download/new3/xmltv.xml.gz,http://epg.one/epg2.xml.gz,https://epg.pw/xmltv/epg_AU.xml.gz,https://epg.pw/xmltv/epg_ID.xml.gz,https://epg.pw/xmltv/epg_HK.xml.gz,https://epg.pw/xmltv/epg_MY.xml.gz,https://epg.pw/xmltv/epg_FR.xml.gz" refresh="3600"
 #EXTM3U url-tvg="https://raw.githubusercontent.com/davidmuma/EPG_dobleM/refs/heads/master/guiatv.xml,https://epgshare01.online/epgshare01/epg_ripper_NL1.xml" refresh="3600"
 #EXTM3U url-tvg="https://raw.githubusercontent.com/davidmuma/EPG_dobleM/refs/heads/master/guiatv.xml,https://epgshare01.online/epgshare01/epg_ripper_NL1.xml.gz" refresh="3600"
 #EXTM3U url-tvg="https://tvbvn.quanlehong539.workers.dev/xml" refresh="3600"
@@ -12,6 +14,24 @@
 #EXTM3U url-tvg="https://vnepg.site/epg.xml.gz" refresh="3600"
 #EXTM3U url-tvg="https://hnlive.dramahay.xyz/epg.xml" refresh="3600"
 #EXTM3U url-tvg="https://hnlive.dramahay.xyz/epg.xml.gz" refresh="3600"
+#EXTM3U url-tvg="http://trada.info/epg.xml" refresh="3600"
+#EXTM3U url-tvg="http://trada.info/epg.xml.gz" refresh="3600"
+#EXTM3U url-tvg="https://manhkendo.000webhostapp.com/epgvn/lichtv/homnay.xml" refresh="3600"
+#EXTM3U url-tvg="https://manhkendo.000webhostapp.com/epgvn/lichtv/homnay.xml.gz" refresh="3600"
+#EXTM3U url-tvg="http://megavie.live/schedule/epg.xml" refresh="3600"
+#EXTM3U url-tvg="http://megavie.live/schedule/epg.xml.gz" refresh="3600"
+#EXTM3U url-tvg="http://gg.gg/guidevn" refresh="3600"
+#EXTM3U url-tvg="http://gg.gg/epgbeartv" refresh="3600"
+#EXTM3U url-tvg="http://gg.gg/epgmytv" refresh="3600"
+#EXTM3U url-tvg="http://epg.51zmt.top:8000/e.xml" refresh="3600"
+#EXTM3U url-tvg="http://epg.51zmt.top:8000/e.xml.gz" refresh="3600"
+#EXTM3U url-tvg="http://megavie.live/schedule/epg.xml"refresh="3600"
+#EXTM3U url-tvg="http://megavie.live/schedule/epg.xml.gz"refresh="3600"
+#EXTM3U url-tvg="http://gg.gg/coodertvepg" refresh="3600"
+#EXTM3U url-tvg="https://manhkendo.000webhostapp.com/epgvn/lichtv/homnay.xml" refresh="3600"
+#EXTM3U url-tvg="https://manhkendo.000webhostapp.com/epgvn/lichtv/homnay.xml.gz" refresh="3600"
+#EXTM3U url-tvg="http://gg.gg/fptepg" refresh="3600"
+
 
 #-*-🌟-VTV*FPT-*--#
 
